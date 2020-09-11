@@ -13,6 +13,6 @@
     "ejs": "2.6.1",
     "express": "4.16.4",
     "formidable": "1.2.1",
-    "node-fetch": "2.3.0"
+    "node-fetch": "2.6.1"
   }
 }
